@@ -29,29 +29,4 @@ lis.forEach((li) => {
   });
 });
 
-//<------------------------------------------------------------------------------->
-//<------------------------------------------------------------------------------->
-// let cont = document.createElement("div");
-// let p = 7;
-// cont.append(p);
-// document.body.appendChild(cont);
-// let countDown = () => {
-//   cont.innerHTML -= 1;
-//   if (cont.innerHTML === "5") {
-//     window.open("https://elzero.org", "_blank", "width=500,height=500");
-//   } else if (cont.innerHTML === "0") clearInterval(counter);
-// };
-// let counter = setInterval(countDown, 1000);
-//<------------------------------------------------------------------------------->
-//<------------------------------------------------------------------------------->
-// let cont = document.createElement("div");
-// let p = 3;
-// cont.append(p);
-// document.body.appendChild(cont);
-// let countDown = () => {
-//   cont.innerHTML -= 1;
-//   if (cont.innerHTML === "0") {
-//     clearInterval(counter);
-//   }
-// };
-// let counter = setInterval(countDown, 1000);
+
